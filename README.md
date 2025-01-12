@@ -1,0 +1,1 @@
+<img src="prisma/dbml/diagram.png">
